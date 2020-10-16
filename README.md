@@ -4,7 +4,7 @@
 
 pkg install nodejs
 
-pkg intall nodejs-lst
+pkg install nodejs-lst
 
 cd папка
 
