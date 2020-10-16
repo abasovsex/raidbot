@@ -17,4 +17,4 @@ sh install .sh
 
 cd папка
 
-sh kek.sh
+node 1
